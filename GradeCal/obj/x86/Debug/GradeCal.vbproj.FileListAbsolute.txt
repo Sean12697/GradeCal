@@ -1,0 +1,55 @@
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+E:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+G:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.exe
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.xml
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.pdb
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.exe
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.pdb
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\bin\Debug\GradeCal.xml
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbprojResolveAssemblyReference.cache
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Form1.resources
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.Resources.resources
+D:\College\Pendleton ICT Level 3\Year 2\Unit 23 - HCI\Visual Basic\Grade Cal\Grade Cal V2\GradeCal\GradeCal\obj\x86\Debug\GradeCal.vbproj.GenerateResource.Cache
